@@ -1,0 +1,26 @@
+html{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    padding: 2em 3em;
+}
+
+main{
+background-color: orange;
+min-height: auto;
+width: 80%;
+margin: auto;
+}
+
+p{
+    font: size 40px;
+    border-left: 10px solid rgb(65, 177, 42);
+    border-right: 10px solid rgb(65, 177, 42) ;
+}
+
+h2{
+    margin: 10px dotted;
+    border-bottom: 1em solid  green;
+}

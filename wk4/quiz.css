@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    width: 50%;
+    height: 60vb;
+    background-color: blue;
+    background: linear-gradient(90deg,green 30%,white 30%,white 65%,green 65%);
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+h1 span{
+    color: red;
+}
+
+ body h2{
+    width: 50%;
+    height: 60vh;
+    background-color: rgb(1, 1, 17);
+    background: linear-gradient(90deg,black 30%,yellow 30%,yellow 65%,red 65%);
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+h3{
+    width:50%;
+    height:60vh;
+    background-color: rgb(243, 233, 233);
+    background: linear-gradient(180deg,red 30%,white 30%,white 35%,blue 35%,blue 60%,white 60%,white 65%,green 65% );
+    margin: auto;
+    margin-bottom: 50px;
+}
